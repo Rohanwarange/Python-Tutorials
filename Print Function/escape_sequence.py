@@ -1,0 +1,5 @@
+print("hellow world it is \"india\"")
+print("hellow world it is \\india")
+print("hellow world it is \'india\'")
+print("lineA\nlineB")
+print("lineA\tlineB")

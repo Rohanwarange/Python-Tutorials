@@ -1,0 +1,6 @@
+name,later=input("Enter your name And Later : ").split(",")
+lenght=len(name)
+cname=name.upper()
+clater=later.upper()
+count=cname.count(clater)
+print(f"length of your name is : {lenght} and {later} is in your name is : {count}")
